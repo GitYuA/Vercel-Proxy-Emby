@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://emby.freeyua.cn$1"
+      "destination": "https://emby.freeyua.cn"
     }
   ]
 }
