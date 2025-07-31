@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://emby.xn--kkr.cn$1"
+    }
+  ]
+}
