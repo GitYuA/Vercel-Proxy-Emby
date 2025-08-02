@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://emby.freeyua.cn/$1"}
+      {"src": "/(.*)","dest": "https://netlify-proxy-emby.netlify.app/$1"}
     ]
 }
